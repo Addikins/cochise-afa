@@ -1,0 +1,33 @@
+
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    text-decoration: none;
+    color: #ffcb05;
+}
+.logos {
+  height: 120px;
+}
+.nav-link {
+    font-size: 1.25em;
+}
+.navbar {
+    background-color: #031225;
+}
+#nav-link:hover {
+    color:#ffcb05;
+}
+.accent-text {
+    color: #ffcb05;
+}
+.carousel-caption {
+    background-color: #031225aa;
+    border-radius: 2em;
+}
+.carousel-item img{
+    border-radius: 2em;
+    border: 3px #031225 solid;
+}
+
