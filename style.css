@@ -1,4 +1,7 @@
 
+body {
+    font-family: 'Oswald', sans-serif;
+}
 a {
     text-decoration: none;
     color: white;
@@ -21,6 +24,9 @@ a:hover {
 }
 .accent-text {
     color: #ffcb05;
+}
+.accent-bg {
+    background-color: #031225;
 }
 .carousel-caption {
     background-color: #031225aa;
