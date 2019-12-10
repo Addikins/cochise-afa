@@ -13,11 +13,20 @@ a:hover {
 .logos {
   height: 120px;
 }
+.navbar-brand {
+    font-size: 1.75em;
+}
+#nav-head:hover {
+    color: #ffcb05;
+}
 .nav-link {
     font-size: 1.25em;
 }
 .navbar {
     background-color: #031225;
+}
+#nav-link {
+    color: white;
 }
 #nav-link:hover {
     color:#ffcb05;
