@@ -57,3 +57,14 @@ margin-left: 20px;
   border-radius: 2em;
   border: 3px #031225 solid;
 }
+.card-body, .card-title, .card-text {
+  background-color: #002e5e;
+  color: white;
+}
+.card-category {
+  color: #ffcb05;
+}
+.btn {
+  background-color: #ffcb05;
+  color: #031225;
+}
